@@ -1,0 +1,12 @@
+<!-- index.html -->
+<html>
+<head><title>ChatGPT Interface</title></head>
+<body>
+    <h1>Ask ChatGPT</h1>
+    <input type="text" id="userInput">
+    <button onclick="sendMessage()">Ask</button>
+    <div id="response"></div>
+
+    <script src="app.js"></script>
+</body>
+</html>
